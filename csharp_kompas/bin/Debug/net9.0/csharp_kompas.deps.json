@@ -1,0 +1,92 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "csharp_kompas/1.0.0": {
+        "dependencies": {
+          "HeagBoKaT": "1.0.0.0",
+          "KompasAPI7": "1.0.0.0"
+        },
+        "runtime": {
+          "csharp_kompas.dll": {}
+        }
+      },
+      "HeagBoKaT/1.0.0.0": {
+        "runtime": {
+          "HeagBoKaT.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "KompasAPI7/1.0.0.0": {
+        "runtime": {
+          "KompasAPI7.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Kompas6Constants/1.0.0.0": {
+        "runtime": {
+          "Kompas6Constants.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Kompas6Constants3D/1.0.0.0": {
+        "runtime": {
+          "Kompas6Constants3D.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "Kompas6API5/1.0.0.0": {
+        "runtime": {
+          "Kompas6API5.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "csharp_kompas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HeagBoKaT/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KompasAPI7/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kompas6Constants/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kompas6Constants3D/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Kompas6API5/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
